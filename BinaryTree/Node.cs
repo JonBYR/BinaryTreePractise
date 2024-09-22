@@ -45,5 +45,9 @@ namespace BinaryTree
         {
             right = n;
         }
+        public void setData(int x)
+        {
+            n = x;
+        }
     }
 }
